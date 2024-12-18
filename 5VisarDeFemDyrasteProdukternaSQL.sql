@@ -1,0 +1,3 @@
+SELECT TOP 5 *
+FROM Produkter
+ORDER BY Pris DESC;
